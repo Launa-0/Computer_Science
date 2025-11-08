@@ -1,3 +1,7 @@
+23년 1학기
+
+Understanding of Programming Logics: 프로그램 논리의 이해
+
 25년 1학기
 
 Mobile Software: 모바일 소프트웨어
